@@ -1,17 +1,12 @@
 <template>
-  <div id="app">
-
-    <router-view/>
-  </div>
+  <div class="home">
+    这是页面</div>
 </template>
-
 <script>
 export default {
 
 }
 </script>
-
 <style>
 
 </style>
-

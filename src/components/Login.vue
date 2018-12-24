@@ -1,17 +1,12 @@
 <template>
-  <div id="app">
-
-    <router-view/>
-  </div>
+  <div class="log">
+    这是登录页面</div>
 </template>
-
 <script>
 export default {
 
 }
 </script>
-
 <style>
 
 </style>
-
